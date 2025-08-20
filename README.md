@@ -1,5 +1,10 @@
+**Renovate discussion**
+
+https://github.com/renovatebot/renovate/discussions/35598
+
 **Current behavior**
-Updates in both `*.csproj` and `dotnet-tools.json` when pinning is enabled wraps versions in `[` and `]`
+
+- Updates in both `*.csproj` and `dotnet-tools.json` when pinning is enabled wraps versions in `[` and `]`
 
 **Expected behavior**
 
