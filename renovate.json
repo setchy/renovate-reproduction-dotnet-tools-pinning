@@ -3,5 +3,11 @@
   "extends": [
     "config:recommended"
   ],
-  "rangeStrategy": "pin"
+  "rangeStrategy": "pin",
+  "packageRules": [
+    {
+      "matchFileNames": ["**/dotnet-tools.json"],
+      "rangeStrategy": "replace"
+    }
+  ]
 }
