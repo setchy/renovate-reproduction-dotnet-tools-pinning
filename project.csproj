@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="StrawberryShake.Server" Version="15.1.7" />
+    <PackageReference Include="StrawberryShake.Server" Version="15.1.11" />
     <PackageReference Include="StrawberryShake.Transport.Http" Version="15.1.7" />
   </ItemGroup>
 
